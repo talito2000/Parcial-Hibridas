@@ -1,0 +1,6 @@
+{
+  "nombre": "Cliente ABC",
+  "foto": "https://example.com/foto.jpg",
+  "descripcion": "Descripción del cliente",
+  "libros": []
+}

@@ -1,0 +1,209 @@
+[
+  {
+    "id": 1,
+    "title": "Don Quijote de la Mancha",
+    "author": "Miguel de Cervantes",
+    "year": 1605,
+    "section": "clásicos",
+    "link": "https://www.example.com/don-quijote",
+    "image": "https://picsum.photos/600/900"
+  },
+  {
+    "id": 2,
+    "title": "Orgullo y Prejuicio",
+    "author": "Jane Austen",
+    "year": 1813,
+    "section": "clásicos",
+    "link": "https://www.example.com/orgullo-prejuicio",
+    "image": "https://picsum.photos/600/900"
+  },
+  {
+    "id": 3,
+    "title": "Moby Dick",
+    "author": "Herman Melville",
+    "year": 1851,
+    "section": "clásicos",
+    "link": "https://www.example.com/moby-dick",
+    "image": "https://picsum.photos/600/900"
+  },
+  {
+    "id": 4,
+    "title": "Los Miserables",
+    "author": "Victor Hugo",
+    "year": 1862,
+    "section": "clásicos",
+    "link": "https://www.example.com/los-miserables",
+    "image": "https://picsum.photos/600/900"
+  },
+  {
+    "id": 5,
+    "title": "La Odisea",
+    "author": "Homero",
+    "year": -800,
+    "section": "clásicos",
+    "link": "https://www.example.com/la-odisea",
+    "image": "https://picsum.photos/600/900"
+  },
+  {
+    "id": 6,
+    "title": "Dune",
+    "author": "Frank Herbert",
+    "year": 1965,
+    "section": "ciencia ficción",
+    "link": "https://www.example.com/dune",
+    "image": "https://picsum.photos/600/900"
+  },
+  {
+    "id": 7,
+    "title": "1984",
+    "author": "George Orwell",
+    "year": 1949,
+    "section": "ciencia ficción",
+    "link": "https://www.example.com/1984",
+    "image": "https://picsum.photos/600/900"
+  },
+  {
+    "id": 8,
+    "title": "Fahrenheit 451",
+    "author": "Ray Bradbury",
+    "year": 1953,
+    "section": "ciencia ficción",
+    "link": "https://www.example.com/fahrenheit-451",
+    "image": "https://picsum.photos/600/900"
+  },
+  {
+    "id": 9,
+    "title": "Fundación",
+    "author": "Isaac Asimov",
+    "year": 1951,
+    "section": "ciencia ficción",
+    "link": "https://www.example.com/fundacion",
+    "image": "https://picsum.photos/600/900"
+  },
+  {
+    "id": 10,
+    "title": "Neuromante",
+    "author": "William Gibson",
+    "year": 1984,
+    "section": "ciencia ficción",
+    "link": "https://www.example.com/neuromante",
+    "image": "https://picsum.photos/600/900"
+  },
+  {
+    "id": 11,
+    "title": "Steve Jobs",
+    "author": "Walter Isaacson",
+    "year": 2011,
+    "section": "biografías",
+    "link": "https://www.example.com/steve-jobs",
+    "image": "https://picsum.photos/600/900"
+  },
+  {
+    "id": 12,
+    "title": "El Diario de Ana Frank",
+    "author": "Ana Frank",
+    "year": 1947,
+    "section": "biografías",
+    "link": "https://www.example.com/diario-ana-frank",
+    "image": "https://picsum.photos/600/900"
+  },
+  {
+    "id": 13,
+    "title": "Long Walk to Freedom",
+    "author": "Nelson Mandela",
+    "year": 1994,
+    "section": "biografías",
+    "link": "https://www.example.com/long-walk-freedom",
+    "image": "https://picsum.photos/600/900"
+  },
+  {
+    "id": 14,
+    "title": "Educada",
+    "author": "Tara Westover",
+    "year": 2018,
+    "section": "biografías",
+    "link": "https://www.example.com/educada",
+    "image": "https://picsum.photos/600/900"
+  },
+  {
+    "id": 15,
+    "title": "Becoming",
+    "author": "Michelle Obama",
+    "year": 2018,
+    "section": "biografías",
+    "link": "https://www.example.com/becoming",
+    "image": "https://picsum.photos/600/900"
+  },
+  {
+    "id": 16,
+    "title": "El nombre de la rosa",
+    "author": "Umberto Eco",
+    "year": 1980,
+    "section": "misterio",
+    "link": "https://www.example.com/nombre-rosa",
+    "image": "https://picsum.photos/600/900"
+  },
+  {
+    "id": 17,
+    "title": "Sherlock Holmes: El sabueso de los Baskerville",
+    "author": "Arthur Conan Doyle",
+    "year": 1902,
+    "section": "misterio",
+    "link": "https://www.example.com/sabueso-baskerville",
+    "image": "https://picsum.photos/600/900"
+  },
+  {
+    "id": 18,
+    "title": "La chica del tren",
+    "author": "Paula Hawkins",
+    "year": 2015,
+    "section": "misterio",
+    "link": "https://www.example.com/chica-tren",
+    "image": "https://picsum.photos/600/900"
+  },
+  {
+    "id": 19,
+    "title": "Perdida",
+    "author": "Gillian Flynn",
+    "year": 2012,
+    "section": "misterio",
+    "link": "https://www.example.com/perdida",
+    "image": "https://picsum.photos/600/900"
+  },
+  {
+    "id": 20,
+    "title": "El código Da Vinci",
+    "author": "Dan Brown",
+    "year": 2003,
+    "section": "misterio",
+    "link": "https://www.example.com/codigo-da-vinci",
+    "image": "https://picsum.photos/600/900"
+  },
+  {
+    "id": 21,
+    "title": "El Gran Gatsby",
+    "author": "F. Scott Fitzgerald",
+    "year": 1925,
+    "section": "novelas",
+    "link": "https://www.example.com/gran-gatsby",
+    "image": "https://picsum.photos/600/900"
+  },
+  {
+    "id": 22,
+    "title": "Cien años de soledad",
+    "author": "Gabriel García Márquez",
+    "year": 1967,
+    "section": "novelas",
+    "link": "https://www.example.com/cien-anos-soledad",
+    "image": "https://picsum.photos/600/900"
+  },
+  {
+    "id": 23,
+    "title": "Crimen y Castigo",
+    "author": "Fiódor Dostoyevski",
+    "year": 1866,
+    "section": "novelas",
+    "link": "https://www.example.com/crimen-castigo",
+    "image": "https://picsum.photos/600/900"
+  }
+]
